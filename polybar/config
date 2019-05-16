@@ -164,7 +164,7 @@ label-focused = %{T4}%{F#ff99ff}%{T- F-}%{T3}%{B#ff99ff}%{F#ff00e5}%index% %i
 ;label-focused-foreground = ${colors.scheme_lb}
 ;label-focused-padding = 3
 
-label-occupied= %{T4}%{F#c300cc}%{T- F-}%{T3}%{B#c300cc}%{F#000000}%index% %{T- B- F-}%{T4}%{B#dd000000}%{F#c300cc}%{T- B- F-}
+label-occupied= %{T4}%{F#974499}%{T- F-}%{T3}%{B#974499}%{F#000000}%index% %{T- B- F-}%{T4}%{B#dd000000}%{F#974499}%{T- B- F-}
 ;label-occupied = %index%
 ;label-occupied-foreground = ${colors.scheme_bv}
 ;label-occupied-background = #aa000000
